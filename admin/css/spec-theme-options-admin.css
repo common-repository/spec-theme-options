@@ -1,0 +1,23 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+  /*redux css */ 
+ .redux-action_bar .button {
+    margin-left: 8px;
+}
+#redux-header{
+	display: none;
+}
+.redux-container-image_select ul.redux-image-select li img {
+    margin: 5px; 
+    width: 110px !important;
+}
+/* .select2-container--default .select2-search--inline .select2-search__field, .redux-container .redux-main input:not(.button){
+    min-height: auto;
+} */
+/* .redux-container .redux-action_bar input.button {
+    line-height: inherit;
+} */
+/*redux css */ 
